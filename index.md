@@ -10,3 +10,4 @@ Dominant assurance contracts are like a souped-up, more powerful version of Kick
 - Research whether it makes sense to build "the dominant crowdfunding platform", perhaps on Solana?
 - How [impact certificates](www.impactcertificates.com) can be involved.
 - Repost whatever's relevant from Balaji Srinivisan
+- Musings on how local public goods could be produced for city DAOs using dominant assurance contracts, quadratic funding, and community currencies (e.g. [CityCoins](citycoincs.co)).
